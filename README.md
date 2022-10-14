@@ -1,4 +1,4 @@
-![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark@2x.png)
+![img](https://techmonster.info/assets/img/logo-webmonster-community.png)
 
 # Liste des agences web et marketing en Guadeloupe
 
@@ -16,8 +16,6 @@ Liste des agences web et marketing en Guadeloupe (971) disponible dans différen
 Concernant le fichier SQL vous trouverez le script de création de la table SQL :
 [Créer la table SQL](create-table.sql)
 
-
-![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png)
 
 Visiter la communauté [Webmonster](https://discord.gg/maynphPgp2) sur Discord.
 
