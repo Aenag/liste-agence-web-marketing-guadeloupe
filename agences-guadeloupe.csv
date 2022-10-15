@@ -1,21 +1,29 @@
-﻿"NOM","ADDRESS","ADRESS2","CPO","CITY","PHONE1","PHONE2","EMAIL","URL","TYPE"
-"Altitude","530 rue de la Chapelle, Immeuble La Caravelle","Zone Industrielle de Jarry",97122,"Baie-Mahault","05 90 60 47 68","","contact@altitudegp.com","https://altitudegp.com/","Web"
-"Antilles Design","10 lot beau Vallon","",97129,"Lamentin","06 58 14 70 62","","contact.antillesdesign@gmail.com","https://www.agence-web-guadeloupe.com/","Web"
-"Beeliz","16b les jardins de houelbourg","Zone Industrielle de Jarry",97122,"Baie-Mahault","05 90 69 85 69","","info@beeliz.com","https://www.beeliz.com/","Web"
-"CUBTEC","83 Le Clos Alicéa","",97122,"Baie-Mahault","06 90 48 07 83","","","https://cubtec.com/","Web"
-"Digital Design Création","chemin Neuf","",97114,"Trois-Rivières","06 60 50 62 16","","contact@ddcreation.fr","https://www.digitaldesigncreation.fr/","Web"
-"Digitallis","Immeuble La City","Zone Industrielle de Jarry",97122,"Baie-Mahault","05 90 26 01 02","","fabrice.pech@digitallis.fr","https://digitallis.fr/","Web"
-"Digitom","938 bis, rue Henri Becquerel","Zone Industrielle de Jarry",97122,"Baie-Mahault","05 90 99 99 30","","","https://www.digitom.fr/","Web"
-"GM SEO","6 rue du Dr Antonio Ferly","",97180,"Sainte-Anne","06 50 09 34 01","","info@gmseo.fr","https://www.gmseo.fr/","Web"
-"Gwada Web Design","145 rue Campeche","",97125,"Bouillante","06 90 19 88 60","06 90 19 88 60","contact@gwadawebdesign.com","https://www.gwadawebdesign.com/","Web"
-"Karukera Creativ","Faubourg Victor Hugo","",97110,"Pointe-A-Pitre","06 95 00 41 33","05 90 02 12 30","contact@karukeracreativ.com","https://karukeracreativ.com/","Web"
-"Karuweb","Résidence Raisins Clairs","H101 Section SEZE",97118,"Saint-François","06 90 86 13 55","","contact@karuweb.fr","https://www.karuweb.fr/","Web"
-"Katchak Digital Agency","","","","","05 90 69 69 65","06 90 34 63 66","contact@katchak-agency.fr","https://katchak-agency.fr/","Web"
-"Kawuk","Route de la Pointe gros boeuf","",97118,"Saint-François","05 90 24 39 93","","contact@kawuk.com","https://kawuk.com/","Web"
-"LyannajWeb","Grand camp","",97139,"Abymes (Les)","06 90 83 54 19","","hello@lyannajweb.fr","https://lyannajweb.fr/","Web"
-"MJ Metrix","rue Henri Becquerel","",97122,"Baie-Mahault","06 90 43 26 09","","direction@mjmetrix.com","https://mjmetrix.com/","Web"
-"Studio du Web","52 res Belle Allée","",97118,"Saint-François","06 90 24 11 64","06 90 16 77 79","contact@studioduweb.biz","https://studioduweb.biz/","Web"
-"Web Expansion Agency","15 rue Abel Libany","Quartier Assainissement",97139,"Abymes (Les)","06 90 67 76 31","","contact@webexpansion.fr","","Web"
-"Web2Web","Route des télécommunications","",97122,"Baie-Mahault","06 90 84 95 98","","direction@web2web.fr","https://web2web.fr/","Web"
-"Yékréa","24 Rue Ferdinand Forest","",97122,"Baie-Mahault","06 90 85 78 61","","contact@yekrea.com","https://www.yekrea.com/","Web"
-"Yo Médya","Rue Nassau","",97110,"Pointe-A-Pitre","06 90 50 02 06","09 72 33 73 19","contact@yo-medya.fr","https://www.yo-medya.fr/","Web"
+NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE
+10GitalLab,Rue Georges Biras,Immeuble Antares,97139,Abymes (Les),,,,https://10gitallab.com/,Marketing
+Altitude,"530 rue de la Chapelle, Immeuble La Caravelle",Zone Industrielle de Jarry,97122,Baie-Mahault,05 90 60 47 68,,contact@altitudegp.com,https://altitudegp.com/,Web
+Antilles Design,10 lot beau Vallon,,97129,Lamentin,06 58 14 70 62,,contact.antillesdesign@gmail.com,https://www.agence-web-guadeloupe.com/,Web
+Beeliz,16b les jardins de houelbourg,Zone Industrielle de Jarry,97122,Baie-Mahault,05 90 69 85 69,,info@beeliz.com,https://www.beeliz.com/,Web
+Bitwip,Providence,,97139,Abymes (Les),09 80 80 82 42,,,https://bitwip.fr/,Marketing
+Creawebstudio ,Rue Camille Turlet,,97125,Bouillante,06 90 26 66 10,,contact@creawebstudio.com,https://www.creawebstudio.com/,Web
+Cubtec,83 Le Clos Alicéa,,97122,Baie-Mahault,06 90 48 07 83,,,https://cubtec.com/,Web
+Digital Design Création,chemin Neuf,,97114,Trois-Rivières,06 60 50 62 16,,contact@ddcreation.fr,https://www.digitaldesigncreation.fr/,Web
+Digitallis,Immeuble La City,Zone Industrielle de Jarry,97122,Baie-Mahault,05 90 26 01 02,,fabrice.pech@digitallis.fr,https://digitallis.fr/,Web
+Digitom,"938 bis, rue Henri Becquerel",Zone Industrielle de Jarry,97122,Baie-Mahault,05 90 99 99 30,,,https://www.digitom.fr/,Web
+GM SEO,6 rue du Dr Antonio Ferly,,97180,Sainte-Anne,06 50 09 34 01,,info@gmseo.fr,https://www.gmseo.fr/,Web
+Gwada Web Design,145 rue Campeche,,97125,Bouillante,06 90 19 88 60 ,06 90 19 88 60,contact@gwadawebdesign.com,https://www.gwadawebdesign.com/,Web
+Karukera Creativ,Faubourg Victor Hugo,,97110,Pointe-A-Pitre,06 95 00 41 33,05 90 02 12 30,contact@karukeracreativ.com,https://karukeracreativ.com/,Web
+Karuweb,Résidence Raisins Clairs,H101 Section SEZE,97118,Saint-François,06 90 86 13 55,,contact@karuweb.fr,https://www.karuweb.fr/,Web
+Katchak Digital Agency,66 Avenue des Champs Elysées,,75008,Paris,05 90 69 69 65,06 90 34 63 66,contact@katchak-agency.fr,https://katchak-agency.fr/,Web
+Kawuk,Route de la Pointe gros boeuf,,97118,Saint-François,05 90 24 39 93,,contact@kawuk.com,https://kawuk.com/,Web
+Kimanee,Rue de la grande rivière,,97130,Capèsterre Belle-Eau,0590 69 87 55,,contact@kimanee.com,https://www.kimanee.com/,Marketing
+Koncept47,"107, Res Gourdeliane",,97122,Baie-Mahault,06 90 33 37 79,,contact@koncept47.com,https://koncept47.com/,Web
+LyannajWeb,Grand camp,,97139,Abymes (Les),06 90 83 54 19,,hello@lyannajweb.fr,https://lyannajweb.fr/,Web
+MJ Metrix,rue Henri Becquerel,,97122,Baie-Mahault,06 90 43 26 09,,direction@mjmetrix.com,https://mjmetrix.com/,Web
+Noviris,22 Lotissement des Citées Fleuries,ZAC Moudong,97122,Baie-Mahault,05 90 92 14 87,,contact@noviris.com,https://www.noviris.com/,Marketing
+Sowink,,,97122,Baie-Mahault,06 90 38 88 09,,d.koury@sowink.fr,https://sowink.fr/,Web
+Studio du Web,52 res Belle Allée,,97118,Saint-François,06 90 24 11 64,06 90 16 77 79,contact@studioduweb.biz,https://studioduweb.biz/,Web
+Web Asso Archipel,Route de Beausoleil,,97139,Abymes (Les),06 90 39 75 75,06 90 54 56 84,,https://web-asso-archipel.fr/,Web
+Web Expansion Agency,15 rue Abel Libany,Quartier Assainissement,97139,Abymes (Les),06 90 67 76 31,,contact@webexpansion.fr,,Web
+Web2Web,Route des télécommunications,,97122,Baie-Mahault,06 90 84 95 98,,direction@web2web.fr,https://web2web.fr/,Web
+Yékréa,24 Rue Ferdinand Forest,,97122,Baie-Mahault,06 90 85 78 61,,contact@yekrea.com,https://www.yekrea.com/,Web
+Yo Médya,Rue Nassau,,97110,Pointe-A-Pitre,06 90 50 02 06,09 72 33 73 19 ,contact@yo-medya.fr,https://www.yo-medya.fr/,Web

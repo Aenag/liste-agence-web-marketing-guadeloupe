@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
+    <NOM>10GitalLab</NOM>
+    <ADDRESS>Rue Georges Biras</ADDRESS>
+    <ADRESS2>Immeuble Antares</ADRESS2>
+    <CPO>97139</CPO>
+    <CITY>Abymes (Les)</CITY>
+    <PHONE1></PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://10gitallab.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
     <NOM>Altitude</NOM>
     <ADDRESS>530 rue de la Chapelle, Immeuble La Caravelle</ADDRESS>
     <ADRESS2>Zone Industrielle de Jarry</ADRESS2>
@@ -37,7 +49,31 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>CUBTEC</NOM>
+    <NOM>Bitwip</NOM>
+    <ADDRESS>Providence</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97139</CPO>
+    <CITY>Abymes (Les)</CITY>
+    <PHONE1>09 80 80 82 42</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://bitwip.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Creawebstudio </NOM>
+    <ADDRESS>Rue Camille Turlet</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97125</CPO>
+    <CITY>Bouillante</CITY>
+    <PHONE1>06 90 26 66 10</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@creawebstudio.com</EMAIL>
+    <URL>https://www.creawebstudio.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Cubtec</NOM>
     <ADDRESS>83 Le Clos Alicéa</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97122</CPO>
@@ -102,7 +138,7 @@
     <ADRESS2></ADRESS2>
     <CPO>97125</CPO>
     <CITY>Bouillante</CITY>
-    <PHONE1>06 90 19 88 60</PHONE1>
+    <PHONE1>06 90 19 88 60 </PHONE1>
     <PHONE2>06 90 19 88 60</PHONE2>
     <EMAIL>contact@gwadawebdesign.com</EMAIL>
     <URL>https://www.gwadawebdesign.com/</URL>
@@ -134,10 +170,10 @@
   </row>
   <row>
     <NOM>Katchak Digital Agency</NOM>
-    <ADDRESS></ADDRESS>
+    <ADDRESS>66 Avenue des Champs Elysées</ADDRESS>
     <ADRESS2></ADRESS2>
-    <CPO></CPO>
-    <CITY></CITY>
+    <CPO>75008</CPO>
+    <CITY>Paris</CITY>
     <PHONE1>05 90 69 69 65</PHONE1>
     <PHONE2>06 90 34 63 66</PHONE2>
     <EMAIL>contact@katchak-agency.fr</EMAIL>
@@ -154,6 +190,30 @@
     <PHONE2></PHONE2>
     <EMAIL>contact@kawuk.com</EMAIL>
     <URL>https://kawuk.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Kimanee</NOM>
+    <ADDRESS>Rue de la grande rivière</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97130</CPO>
+    <CITY>Capèsterre Belle-Eau</CITY>
+    <PHONE1>0590 69 87 55</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@kimanee.com</EMAIL>
+    <URL>https://www.kimanee.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Koncept47</NOM>
+    <ADDRESS>107, Res Gourdeliane</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97122</CPO>
+    <CITY>Baie-Mahault</CITY>
+    <PHONE1>06 90 33 37 79</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@koncept47.com</EMAIL>
+    <URL>https://koncept47.com/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
@@ -181,6 +241,30 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
+    <NOM>Noviris</NOM>
+    <ADDRESS>22 Lotissement des Citées Fleuries</ADDRESS>
+    <ADRESS2>ZAC Moudong</ADRESS2>
+    <CPO>97122</CPO>
+    <CITY>Baie-Mahault</CITY>
+    <PHONE1>05 90 92 14 87</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@noviris.com</EMAIL>
+    <URL>https://www.noviris.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Sowink</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97122</CPO>
+    <CITY>Baie-Mahault</CITY>
+    <PHONE1>06 90 38 88 09</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>d.koury@sowink.fr</EMAIL>
+    <URL>https://sowink.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
     <NOM>Studio du Web</NOM>
     <ADDRESS>52 res Belle Allée</ADDRESS>
     <ADRESS2></ADRESS2>
@@ -190,6 +274,18 @@
     <PHONE2>06 90 16 77 79</PHONE2>
     <EMAIL>contact@studioduweb.biz</EMAIL>
     <URL>https://studioduweb.biz/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Web Asso Archipel</NOM>
+    <ADDRESS>Route de Beausoleil</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97139</CPO>
+    <CITY>Abymes (Les)</CITY>
+    <PHONE1>06 90 39 75 75</PHONE1>
+    <PHONE2>06 90 54 56 84</PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://web-asso-archipel.fr/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
@@ -235,7 +331,7 @@
     <CPO>97110</CPO>
     <CITY>Pointe-A-Pitre</CITY>
     <PHONE1>06 90 50 02 06</PHONE1>
-    <PHONE2>09 72 33 73 19</PHONE2>
+    <PHONE2>09 72 33 73 19 </PHONE2>
     <EMAIL>contact@yo-medya.fr</EMAIL>
     <URL>https://www.yo-medya.fr/</URL>
     <TYPE>Web</TYPE>

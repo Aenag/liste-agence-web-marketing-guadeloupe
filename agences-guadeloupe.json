@@ -1,5 +1,17 @@
 [
   {
+    "NOM": "10GitalLab",
+    "ADDRESS": "Rue Georges Biras",
+    "ADRESS2": "Immeuble Antares",
+    "CPO": 97139,
+    "CITY": "Abymes (Les)",
+    "PHONE1": "",
+    "PHONE2": "",
+    "EMAIL": "",
+    "URL": "https://10gitallab.com/",
+    "TYPE": "Marketing"
+  },
+  {
     "NOM": "Altitude",
     "ADDRESS": "530 rue de la Chapelle, Immeuble La Caravelle",
     "ADRESS2": "Zone Industrielle de Jarry",
@@ -36,7 +48,31 @@
     "TYPE": "Web"
   },
   {
-    "NOM": "CUBTEC",
+    "NOM": "Bitwip",
+    "ADDRESS": "Providence",
+    "ADRESS2": "",
+    "CPO": 97139,
+    "CITY": "Abymes (Les)",
+    "PHONE1": "09 80 80 82 42",
+    "PHONE2": "",
+    "EMAIL": "",
+    "URL": "https://bitwip.fr/",
+    "TYPE": "Marketing"
+  },
+  {
+    "NOM": "Creawebstudio",
+    "ADDRESS": "Rue Camille Turlet",
+    "ADRESS2": "",
+    "CPO": 97125,
+    "CITY": "Bouillante",
+    "PHONE1": "06 90 26 66 10",
+    "PHONE2": "",
+    "EMAIL": "contact@creawebstudio.com",
+    "URL": "https://www.creawebstudio.com/",
+    "TYPE": "Web"
+  },
+  {
+    "NOM": "Cubtec",
     "ADDRESS": "83 Le Clos Alicéa",
     "ADRESS2": "",
     "CPO": 97122,
@@ -133,10 +169,10 @@
   },
   {
     "NOM": "Katchak Digital Agency",
-    "ADDRESS": "",
+    "ADDRESS": "66 Avenue des Champs Elysées",
     "ADRESS2": "",
-    "CPO": "",
-    "CITY": "",
+    "CPO": 75008,
+    "CITY": "Paris",
     "PHONE1": "05 90 69 69 65",
     "PHONE2": "06 90 34 63 66",
     "EMAIL": "contact@katchak-agency.fr",
@@ -153,6 +189,30 @@
     "PHONE2": "",
     "EMAIL": "contact@kawuk.com",
     "URL": "https://kawuk.com/",
+    "TYPE": "Web"
+  },
+  {
+    "NOM": "Kimanee",
+    "ADDRESS": "Rue de la grande rivière",
+    "ADRESS2": "",
+    "CPO": 97130,
+    "CITY": "Capèsterre Belle-Eau",
+    "PHONE1": "0590 69 87 55",
+    "PHONE2": "",
+    "EMAIL": "contact@kimanee.com",
+    "URL": "https://www.kimanee.com/",
+    "TYPE": "Marketing"
+  },
+  {
+    "NOM": "Koncept47",
+    "ADDRESS": "107, Res Gourdeliane",
+    "ADRESS2": "",
+    "CPO": 97122,
+    "CITY": "Baie-Mahault",
+    "PHONE1": "06 90 33 37 79",
+    "PHONE2": "",
+    "EMAIL": "contact@koncept47.com",
+    "URL": "https://koncept47.com/",
     "TYPE": "Web"
   },
   {
@@ -180,6 +240,30 @@
     "TYPE": "Web"
   },
   {
+    "NOM": "Noviris",
+    "ADDRESS": "22 Lotissement des Citées Fleuries",
+    "ADRESS2": "ZAC Moudong",
+    "CPO": 97122,
+    "CITY": "Baie-Mahault",
+    "PHONE1": "05 90 92 14 87",
+    "PHONE2": "",
+    "EMAIL": "contact@noviris.com",
+    "URL": "https://www.noviris.com/",
+    "TYPE": "Marketing"
+  },
+  {
+    "NOM": "Sowink",
+    "ADDRESS": "",
+    "ADRESS2": "",
+    "CPO": 97122,
+    "CITY": "Baie-Mahault",
+    "PHONE1": "06 90 38 88 09",
+    "PHONE2": "",
+    "EMAIL": "d.koury@sowink.fr",
+    "URL": "https://sowink.fr/",
+    "TYPE": "Web"
+  },
+  {
     "NOM": "Studio du Web",
     "ADDRESS": "52 res Belle Allée",
     "ADRESS2": "",
@@ -189,6 +273,18 @@
     "PHONE2": "06 90 16 77 79",
     "EMAIL": "contact@studioduweb.biz",
     "URL": "https://studioduweb.biz/",
+    "TYPE": "Web"
+  },
+  {
+    "NOM": "Web Asso Archipel",
+    "ADDRESS": "Route de Beausoleil",
+    "ADRESS2": "",
+    "CPO": 97139,
+    "CITY": "Abymes (Les)",
+    "PHONE1": "06 90 39 75 75",
+    "PHONE2": "06 90 54 56 84",
+    "EMAIL": "",
+    "URL": "https://web-asso-archipel.fr/",
     "TYPE": "Web"
   },
   {
