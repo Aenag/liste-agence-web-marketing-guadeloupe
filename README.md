@@ -21,4 +21,4 @@ Visiter la communauté [Webmonster](https://discord.gg/maynphPgp2) sur Discord.
 
 
 # Remerciements
-Thanks to : WestInDev, Ronny, Christelle, Eric, R3tr0_, SignedA, Kenjisupremacy, Chriss, SoniaV, webplusm, Jeed0, Kisaman_Steeven, FabienF, FVR71F, Nautilias and all Webmonster Community
+Thanks to : WestInDev, Ronny, ChrisD, dreamgeeker, Christelle, Eric, R3tr0_, SignedA, Kenjisupremacy, Chriss, SoniaV, webplusm, Jeed0, Kisaman_Steeven, FabienF, FVR71F, Nautilias and all Webmonster Community
